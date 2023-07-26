@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satvik Singh</h1>
 <h3 align="center">A passionate computer engineer studying at University of California San Diego</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prompthunt.com%2Fprompt%2Fclhza1soj0005le0fdifsd08w&psig=AOvVaw1KHJ5h1NtJMT2jj9vd0z3P&ust=1690495604982000&source=images&cd=vfe&opi=89978449&ved=0CAwQjRxqFwoTCND_iYmxrYADFQAAAAAdAAAAABAD)")
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prompthunt.com%2Fprompt%2Fclhza1soj0005le0fdifsd08w&psig=AOvVaw1KHJ5h1NtJMT2jj9vd0z3P&ust=1690495604982000&source=images&cd=vfe&opi=89978449&ved=0CAwQjRxqFwoTCND_iYmxrYADFQAAAAAdAAAAABAD">
 - 🔭 I’m currently working on **developing Stereo Vision from scratch hardware**
 
 - 🌱 I’m currently learning **Computer Vision with ML**
